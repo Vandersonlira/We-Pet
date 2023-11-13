@@ -1,0 +1,90 @@
+* {
+    font-family: 'Montserrat', sans-serif;
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.link-header {
+    margin-left: 76px;
+    margin: 40px;
+    color: #989D9C;
+    font-size: 24px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.Log {
+    width: 130px;
+    height: 41px;
+    border-radius: 20.5px;
+    background: #665AE1;
+    color: #FFF;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: normal;
+    border: none;
+    margin-left: 25px;
+    cursor: pointer;
+}
+
+img {
+    width: 568px;
+    height: 500px;
+    margin-top: 217px;
+    margin-left: 201.57px;
+    margin-bottom: 10px;
+}
+
+h1 {
+    color: #515151;
+    font-size: 100px;
+    font-weight: 900;
+    line-height: 122px;
+    letter-spacing: 0em;
+    text-align: left;
+    width: 513px;
+    height: 122px;
+
+}
+
+h2 {
+    color: #515151;
+    font-size: 58px;
+    font-weight: 500;
+    width: 448px;
+    height: 71px;
+
+}
+
+p {
+    color: #848484;
+    font-size: 24px;
+    font-weight: 400;
+    width: 515px;
+    margin-top: 10px;
+}
+
+.EXp {
+    width: 239px;
+    height: 64px;
+    border-radius: 30px;
+    background: #ADFF00;
+    color: #000000;
+    font-size: 28px;
+    font-weight: 700;
+    border: none;
+    margin-top: 65px;
+    cursor: pointer;
+    filter: drop-shadow(0 4px 4px rgba(0, 0, 0, 0.25));
+
+}
+
+main {
+    display: inline-block;
+    margin: 217px 148px 243px 86px;
+
+}
+  
+
+
