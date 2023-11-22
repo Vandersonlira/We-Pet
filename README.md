@@ -5,8 +5,8 @@
 
 <h2>Tecnologias utilizadas</h2>
 <br>
--HTML
--CSS
+- HTML
+- CSS
 
 <img src="https://github.com/Vandersonlira/We-Pet/blob/main/We%20Pet/assets/Projeto%20WE-PET.png?raw=true" />
 
